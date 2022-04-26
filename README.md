@@ -6,11 +6,10 @@
 
 
 
-
-
-
 import pygame
+
 import random
+
 if __name__ == '__main__':
 
     # define a list with the name of the images
